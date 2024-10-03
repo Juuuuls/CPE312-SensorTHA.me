@@ -1,0 +1,3 @@
+update: records temperature,humidity, and air quality every 1 min and then after 10 mins gets the average
+
+to update: add datestamp of the record, and apply with the use of sending the average using the wifi module
